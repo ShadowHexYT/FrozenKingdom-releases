@@ -1,8 +1,41 @@
 {
   "schema": 1,
   "projects": [
-    { "id": "forevermarket", "releasesRepo": "ShadowHexYT/ForeverMarket-releases", "category": "WoW Addons" },
-    { "id": "crisptext", "releasesRepo": "ShadowHexYT/CrispText-releases", "category": "WoW Addons" },
-    { "id": "compassribbon", "releasesRepo": "ShadowHexYT/CompassRibbon-releases", "category": "WoW Addons" }
+    {
+      "id": "forevermarket",
+      "releasesRepo": "ShadowHexYT/ForeverMarket-releases",
+      "category": "WoW Addons"
+    },
+    {
+      "id": "crisptext",
+      "releasesRepo": "ShadowHexYT/CrispText-releases",
+      "category": "WoW Addons"
+    },
+    {
+      "id": "compassribbon",
+      "releasesRepo": "ShadowHexYT/CompassRibbon-releases",
+      "category": "WoW Addons"
+    },
+    {
+      "id": "refract",
+      "releasesRepo": "ShadowHexYT/Refract-releases",
+      "category": "Streaming",
+      "manifest": {
+        "schema": 1,
+        "id": "refract",
+        "name": "Refract",
+        "type": "app",
+        "author": "Hunter",
+        "description": "A desktop Twitch client: up to 4 streams at once with custom layouts, chat with BTTV / FFZ / 7TV emotes, an ad shield, go-live alerts, XP and achievements.",
+        "asset": "_x64-setup.exe",
+        "installArgs": [
+          "/S"
+        ],
+        "detectName": "Refract",
+        "tags": [
+          "Twitch"
+        ]
+      }
+    }
   ]
 }
