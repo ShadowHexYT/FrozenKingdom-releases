@@ -17,7 +17,8 @@ updates keep coming while it's closed.
 ## What's inside
 
 - **WoW Forever addons**: Forever Market (auction prices, synced automatically), LootRoll (a clearer
-  Need/Greed/Pass window with everyone's rolls and animated dice), CrispText, Compass Ribbon
+  Need/Greed/Pass window with everyone's rolls and animated dice), AutoTrash (Alt + Right-click any
+  bag item to always delete, sell or keep it), CrispText, Compass Ribbon
 - **Applications**: Refract (multi-stream Twitch client)
 - A gold **Play** button that updates your addons and starts WoW: Forever
 - A page for every project: all versions (roll back if an update breaks something), automatic
