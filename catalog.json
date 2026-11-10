@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "projects": [
+    { "id": "forevermarket", "releasesRepo": "ShadowHexYT/ForeverMarket-releases", "category": "WoW Addons" },
+    { "id": "crisptext", "releasesRepo": "ShadowHexYT/CrispText-releases", "category": "WoW Addons" },
+    { "id": "compassribbon", "releasesRepo": "ShadowHexYT/CompassRibbon-releases", "category": "WoW Addons" }
+  ]
+}
