@@ -16,11 +16,16 @@ updates keep coming while it's closed.
 
 ## What's inside
 
-- **WoW Forever**: Forever Market (auction prices, synced automatically), CrispText, Compass Ribbon
+- **WoW Forever addons**: Forever Market (auction prices, synced automatically), LootRoll (a clearer
+  Need/Greed/Pass window with everyone's rolls and animated dice), CrispText, Compass Ribbon
 - **Applications**: Refract (multi-stream Twitch client)
+- A gold **Play** button that updates your addons and starts WoW: Forever
+- A page for every project: all versions (roll back if an update breaks something), automatic
+  settings backups before updates with one-click restore, and commands you can copy into chat
+- **Patch notes** and **Update** buttons at the top; FrozenKingdom updates itself
 - A **Console** that shows exactly what happened if anything goes wrong
   (Settings › Advanced › Copy diagnostics makes a bug report easy)
-- Themes, accent colors and other settings
+- Themes, falling snow, and lots of settings
 
 ## Already using Forever Market's "Enable Auto-Sync"?
 
