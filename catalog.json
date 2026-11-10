@@ -34,7 +34,8 @@
         "detectName": "Refract",
         "tags": [
           "Twitch"
-        ]
+        ],
+        "icon": "https://raw.githubusercontent.com/ShadowHexYT/FrozenKingdom-releases/HEAD/icons/refract.png"
       }
     }
   ]
