@@ -37,6 +37,11 @@
         ],
         "icon": "https://raw.githubusercontent.com/ShadowHexYT/FrozenKingdom-releases/HEAD/icons/refract.png"
       }
+    },
+    {
+      "id": "lootroll",
+      "releasesRepo": "ShadowHexYT/LootRoll-releases",
+      "category": "WoW Addons"
     }
   ]
 }
