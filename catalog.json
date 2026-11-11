@@ -42,6 +42,11 @@
       "id": "lootroll",
       "releasesRepo": "ShadowHexYT/LootRoll-releases",
       "category": "WoW Addons"
+    },
+    {
+      "id": "autotrash",
+      "releasesRepo": "ShadowHexYT/AutoTrash-releases",
+      "category": "WoW Addons"
     }
   ]
 }
