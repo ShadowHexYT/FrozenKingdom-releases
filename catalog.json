@@ -47,6 +47,11 @@
       "id": "autotrash",
       "releasesRepo": "ShadowHexYT/AutoTrash-releases",
       "category": "WoW Addons"
+    },
+    {
+      "id": "foreverbeautiful",
+      "releasesRepo": "ShadowHexYT/ForeverBeautiful-releases",
+      "category": "WoW Addons"
     }
   ]
 }
