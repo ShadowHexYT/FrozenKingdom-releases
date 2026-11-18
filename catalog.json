@@ -52,6 +52,29 @@
       "id": "foreverbeautiful",
       "releasesRepo": "ShadowHexYT/ForeverBeautiful-releases",
       "category": "WoW Addons"
+    },
+    {
+      "id": "catchup",
+      "releasesRepo": "ShadowHexYT/CatchUp-releases",
+      "category": "K-pop",
+      "manifest": {
+        "schema": 1,
+        "id": "catchup",
+        "name": "CatchUp",
+        "type": "app",
+        "author": "Hunter",
+        "description": "A K-pop variety tracker: every show, MV, stage and appearance from the groups you follow, a built-in player that remembers what you watched, news, comeback countdowns and Encore Awards.",
+        "asset": "_x64-setup.exe",
+        "installArgs": [
+          "/S"
+        ],
+        "detectName": "CatchUp",
+        "tags": [
+          "K-pop",
+          "YouTube"
+        ],
+        "icon": "https://raw.githubusercontent.com/ShadowHexYT/FrozenKingdom-releases/HEAD/icons/catchup.png"
+      }
     }
   ]
 }
